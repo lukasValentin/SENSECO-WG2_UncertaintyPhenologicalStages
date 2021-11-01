@@ -10,7 +10,7 @@ library(rgdal)
 setwd("./../data/inputs")
 
 ## Loading data
-files <- list.files("P1-NoClouds", full.names = TRUE, patter="*.tif$")
+files <- list.files(".", full.names = TRUE, patter="*.tif$")
 p1 <- stack(files)
 plot(p1[[62]])
 
