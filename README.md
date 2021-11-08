@@ -1,7 +1,9 @@
+[![DOI](https://zenodo.org/badge/421498982.svg)](https://zenodo.org/badge/latestdoi/421498982)
+
 # About
 
 This repositories contains **scripts and data** to create scenarios of **Sentinel-2 (S2) Normalized Difference Vegetation Index (NDVI) time series** data to account for **radiometric uncertainty**. The **objective**
-if this small exercise is to give a first rough estimate of the **impact of radiometric uncertainty on the timing of key phenological stages** such as start (SOS), peak (POS), and end of season (EOS).
+of this small exercise is to give a first rough estimate of the **impact of radiometric uncertainty on the timing of key phenological stages** such as start (SOS), peak (POS), and end of season (EOS).
 
 The project is the **result of a summer school student project** jointly accomplished by Paulo Bernardina, Zaib un Nisa, Stefanie Steinhauser and Lukas Graf at the **[SENSECO](https://www.senseco.eu/) Eo-Sense 2.0 summer school in Plovidiv, Bulgaria** in September 2021.
 It has been carried out within the scope of [SENSECO Working Group 2](https://www.senseco.eu/working-groups/wg2-temporal-gap/) ("Closing the temporal gap: from daily observations to seasonal trends") and has also received valuable inputs from
