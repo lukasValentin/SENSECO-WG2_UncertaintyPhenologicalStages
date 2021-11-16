@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Graf, Bernardino, Steinhauser, Un Nisa, Berger, Ganeva, Belda, Verrelst, Aasen
+    given-names: Lukas, Paulo, Stefanie, Zaib, Katja, Dessislava, Santiago, Jochem, Helge
+    orcid: https://orcid.org/0000-0003-4800-8258, https://orcid.org/0000-0002-9226-3160, ,https://orcid.org/0000-0002-3781-4900 , https://orcid.org/0000-0003-0784-7717,, https://orcid.org/0000-0002-6313-2081,  https://orcid.org/0000-0003-4343-0476
+title: lukasValentin/SENSECO-WG2_UncertaintyPhenologicalStages: Potential Impacts of Radiometric Uncertainty on the Estimation of Land Surface Phenology Metrics
+version: v0.1.0
+date-released: 2021-11-09
