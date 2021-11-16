@@ -36,7 +36,7 @@ advanced time series tasks for:
 Using DATimeS we interpolated and smoothed the data to extract SOS, POS, EOS, and the length of the growing season using a 30% threshold of the seasonal amplitude.
 
 Finally, we analyzed the spread among the 10000 time series realizations in terms of these phenological stages and reported the standard uncertainty as measure of the standard uncertainty in days alongside
-the min-max spread among the realizations. For that step a **[Python script](./scripts/phenology_simulations_analysis.py)** was used.
+the min-max spread among the realizations. For that step a small **[Python script](./scripts/phenology_simulations_analysis.py)** was developed.
 
 # Project Structure
 
