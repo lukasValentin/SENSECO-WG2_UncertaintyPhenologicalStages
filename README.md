@@ -24,7 +24,7 @@ by Matias Salinero Delgado from the University of Valencia - many thanks for sha
 
 For each NDVI image, we discarded the lower and upper 5% percentile and averaged the remaining values. We then assumed an uncertainty of 2% in the NDVI values and draw samples from a normal distribution
 $`\mathcal{N}(0,\sigma)`$, where $`\sigma`$ denotes the standard deviation. In total, 10,000 samples were generated following this procedure, to reflect the potential impact of radiometric uncertainty on NDVI values.
-To reproduce this step, the **[R-script](./scripts/monte_carlo_simulations.R) written by Paulo Bernardino** can be used.
+To reproduce this step, the **[R-script](./scripts/monte_carlo_simulations.R) written by [Paulo Bernardino](https://github.com/paulonbernardino)** can be used.
 
 The 10,000 NDVI time series generated were put into [DATimeS](https://doi.org/10.1016/j.envsoft.2020.104666) which is a stand-alone toolbox that can be acquired via the
 [ARTMO](https://artmotoolbox.com/plugins-standalone/91-plugins-standalone/34-datimes.html) toolbox. DATimeS is a stand-alone image processing GUI toolbox that enables to perform different
